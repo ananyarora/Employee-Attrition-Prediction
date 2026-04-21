@@ -70,6 +70,14 @@ Employee attrition is a major concern for organizations as it leads to increased
 * Scikit-learn
 * Matplotlib / Seaborn
 
+  ## Visualizations
+  *Confusion Matrix: 
+  <img width="1580" height="893" alt="Screenshot 2026-04-21 163507" src="https://github.com/user-attachments/assets/59c8c357-479a-4edf-9d7d-1ab1569d2ba4" />
+
+*Feature Importance: 
+<img width="1381" height="1102" alt="Screenshot 2026-04-21 164103" src="https://github.com/user-attachments/assets/5a36adb4-8f7a-4ce0-9ce8-40c16b0c134d" />
+
+
 ---
 
 ## Conclusion
